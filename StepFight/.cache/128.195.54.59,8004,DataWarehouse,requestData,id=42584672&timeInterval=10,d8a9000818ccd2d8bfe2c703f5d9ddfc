@@ -1,0 +1,7 @@
+status: 200
+date: Sun, 21 Dec 2014 04:43:21 GMT
+content-location: http://128.195.54.59:8004/DataWarehouse/requestData?id=42584672&timeInterval=10
+server: Apache-Coyote/1.1
+content-length: 33
+
+{"activity":[],"lat":[],"lon":[]}

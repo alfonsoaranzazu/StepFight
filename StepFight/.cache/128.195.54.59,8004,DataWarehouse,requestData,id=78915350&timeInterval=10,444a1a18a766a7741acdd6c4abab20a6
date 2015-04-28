@@ -1,0 +1,7 @@
+status: 200
+content-location: http://128.195.54.59:8004/DataWarehouse/requestData?id=78915350&timeInterval=10
+server: Apache-Coyote/1.1
+content-length: 33
+date: Thu, 20 Mar 2014 04:33:07 GMT
+
+{"activity":[],"lat":[],"lon":[]}
